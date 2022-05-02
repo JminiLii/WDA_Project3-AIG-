@@ -25,5 +25,6 @@ public class baekjoon1157 {
 		int sum = ans + 65;
 		char ha = (char)sum;
 		System.out.println(ha);
+		in.close();
 	}
 }
