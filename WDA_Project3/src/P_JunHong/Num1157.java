@@ -3,7 +3,8 @@ package P_JunHong;
 import java.util.Scanner;
 
 public class Num1157 {
-    public static void main(String[] args) {
+
+	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		String s = sc.next();
@@ -29,4 +30,5 @@ public class Num1157 {
 		System.out.print(ch);
 		
 	}
+
 }
