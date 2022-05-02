@@ -1,3 +1,5 @@
+package C_GyuTae;
+
 import java.util.Scanner;
 
 public class BJ_1712    {
