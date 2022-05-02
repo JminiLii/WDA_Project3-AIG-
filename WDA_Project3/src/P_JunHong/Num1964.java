@@ -16,6 +16,7 @@ public class Num1964 {
 			sum+=num;
 		}
 		System.out.println((sum+1)% 45678);
+		sc.close();
 	}
 
 }

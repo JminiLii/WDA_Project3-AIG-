@@ -36,5 +36,6 @@ public class Num1212 {
 			}
 		}
 		System.out.print(sb.toString());
-	}
+		sc.close();
+	}	
 }

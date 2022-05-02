@@ -28,7 +28,7 @@ public class Num1157 {
 		}
  
 		System.out.print(ch);
-		
+		sc.close();
 	}
 
 }
