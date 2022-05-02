@@ -14,5 +14,6 @@ public class BJ_1712    {
         else    {
             System.out.println((a/(c-b))+1);
         }
+            sc.close();
     }
 }

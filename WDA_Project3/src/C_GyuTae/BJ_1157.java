@@ -25,5 +25,6 @@ public class BJ_1157 {
             }
         }
         System.out.println(index);
+        sc.close();
     }
 }

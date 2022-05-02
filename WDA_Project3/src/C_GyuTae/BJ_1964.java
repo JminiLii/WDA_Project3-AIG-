@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 public class BJ_1964 {
   public static void main(String[] args) {
-    Scanner scanner = new Scanner(System.in);
-    int n = scanner.nextInt();
+    Scanner sc = new Scanner(System.in);
+    int n = sc.nextInt();
 
     int jum = 45678;
     int result = 5;
@@ -12,6 +12,7 @@ public class BJ_1964 {
         result = (result + (i + 2) * 3 - 2) % jum;
     }
     System.out.println(result);
-    }
+    sc.close();
+  }
 }
 

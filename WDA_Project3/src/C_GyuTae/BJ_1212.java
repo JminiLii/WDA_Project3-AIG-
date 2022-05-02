@@ -27,6 +27,7 @@ public static void main(String[] args) {
                     System.out.print(eight[n]);
                     start = false;
             }
+            sc.close();
         }
     }
 }
