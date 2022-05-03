@@ -1,3 +1,5 @@
+package K_TakYoung;
+
 import java.util.Scanner;
 
 public class Okak {
