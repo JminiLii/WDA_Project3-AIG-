@@ -13,5 +13,6 @@ public class Num2753 {
         else {
             System.out.println(0);
         }
+        sc.close();
     }
 }

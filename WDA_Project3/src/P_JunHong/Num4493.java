@@ -56,6 +56,7 @@ public class Num4493 {
                         }
                         
                 }
+                sc.close();
 
         }
 }

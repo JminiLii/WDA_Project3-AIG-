@@ -17,5 +17,7 @@ public class Num3003 {
             sum[i]=chess[i]-input[i];
             System.out.print(sum[i]+" ");
         }
+
+        sc.close();
     }    
 }

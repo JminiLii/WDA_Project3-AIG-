@@ -27,5 +27,8 @@ public class Num2884 {
             n=s;
         }
         System.out.println(h +" "+ n);
+
+        sc.close();
     }
+    
 }
