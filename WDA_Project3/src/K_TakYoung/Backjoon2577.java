@@ -9,7 +9,6 @@ public class Backjoon2577 {
         char tmp = ' ';
 
         Scanner sc = new Scanner(System.in);
-        //String input = sc.nextLine();
         int value = (sc.nextInt()*sc.nextInt()*sc.nextInt());
         String str= Integer.toString(value);
         sc.close();
