@@ -2,7 +2,6 @@ package K_TakYoung;
 
 import java.util.Scanner;
 
-import javax.lang.model.util.ElementScanner14;
 
 public class Backjoon10102 {
     public static void main(String[] args) {
