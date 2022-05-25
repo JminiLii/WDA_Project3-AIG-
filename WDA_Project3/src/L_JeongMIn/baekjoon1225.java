@@ -8,7 +8,7 @@ public class baekjoon1225 {//1225
 		String[] AB = in.nextLine().split(" ");
 		String[] A = AB[0].split("");
 		String[] B = AB[1].split("");
-		int sum = 0;
+		long sum = 0;
 
 		for (int i = 0; i < A.length; i++) {
 			for (int j = 0; j < B.length; j++) {
@@ -18,4 +18,3 @@ public class baekjoon1225 {//1225
 		System.out.println(sum);
 	}
 }
-
