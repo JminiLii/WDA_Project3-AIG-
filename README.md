@@ -1,12 +1,5 @@
 # WDA_Project3-Algorithm
 
-
-
-
-
-
-
-
 <table>
   <tr>
     
@@ -28,12 +21,21 @@ width="100px;" alt=""/><br /><sub><b>박준홍</b></sub></a><br /><a href="https
  <td align="center"><a href="https://github.com/ryusongji"><img src="https://user-images.githubusercontent.com/103193673/166229163-9831c6b9-853f-4ea0-bedc-419be661cadd.png"
 width="100px;" alt=""/><br /><sub><b>류송지</b></sub></a><br /><a href="https://github.com/ryusongji" title="Code">🏠</a></td>
     
-
 </tr>
 
-  
  
 </table>
+
+# 활동 내역
+
+![메인](https://user-images.githubusercontent.com/103193673/172199657-a72261fd-751a-4bfa-b594-ac5a7ae42d82.PNG)
+
+![탁영](https://user-images.githubusercontent.com/103193673/172199699-658c2b23-f782-40e3-9c9b-d710beb305db.PNG)
+![준홍](https://user-images.githubusercontent.com/103193673/172199725-05e4776d-755a-47f5-b12c-3f1d066e8463.PNG)
+![송지](https://user-images.githubusercontent.com/103193673/172199734-2cca8265-a39b-4b66-af45-8fef4ecf266d.PNG)
+![정민형](https://user-images.githubusercontent.com/103193673/172199744-d5ffb276-f1d3-479d-9d4d-0952cf2ce859.PNG)
+![규태형](https://user-images.githubusercontent.com/103193673/172199750-6b6ebe06-5652-4ae6-8abc-c9368b82383b.PNG)
+
 
 # 프로필
 
