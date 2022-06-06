@@ -1,5 +1,12 @@
 # WDA_Project3-Algorithm
 
+
+
+
+
+
+
+
 <table>
   <tr>
     
@@ -40,7 +47,8 @@ width="100px;" alt=""/><br /><sub><b>류송지</b></sub></a><br /><a href="https
 
 ### 김탁영
 <img width="1118" alt="KakaoTalk_20220606_192839976" src="https://user-images.githubusercontent.com/103085094/172144458-52f27ea2-b240-4e41-8578-04189b5c1bc9.png">
-![image](https://user-images.githubusercontent.com/103085094/172150419-c86aadf2-3d9e-4756-a89d-64ba043b348a.png)
+
+![image](https://user-images.githubusercontent.com/103085094/172150721-c7cc9f68-7386-4147-8f22-435e62c197f8.png)
 
 ### 류송지
 ![image](https://user-images.githubusercontent.com/103085094/172146151-023ec73a-2a90-4e1d-97ed-9d8761d98ca5.png)
