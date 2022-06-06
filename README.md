@@ -19,6 +19,22 @@ width="100px;" alt=""/><br /><sub><b>박준홍</b></sub></a><br /><a href="https
  <td align="center"><a href="https://github.com/ryusongji"><img src="https://user-images.githubusercontent.com/103193673/166229163-9831c6b9-853f-4ea0-bedc-419be661cadd.png"
 width="100px;" alt=""/><br /><sub><b>류송지</b></sub></a><br /><a href="https://github.com/ryusongji" title="Code">🏠</a></td>
 
+    
+    
+    
+    <img width="1128" alt="KakaoTalk_20220606_165559355" src="https://user-images.githubusercontent.com/103085094/172121682-45dd7d7a-3ba7-4a9a-8edb-1c1b5e4ece93.png">
+
+    
+    
+    <img width="875" alt="KakaoTalk_20220606_165559528" src="https://user-images.githubusercontent.com/103085094/172121730-d98ac2aa-6342-4983-a1d8-74e00b60fa1e.png">
+
+    
+    
+    
+    
+    
+    
+    
 </tr>
     
  
