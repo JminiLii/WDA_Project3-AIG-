@@ -109,3 +109,8 @@ width="1100px;"</a></td>
 
 ## 태그 분포
 ![image](https://user-images.githubusercontent.com/103085094/172146938-84e9067d-b6bc-4e61-82ec-4829bd73b721.png)
+
+
+# 활동 사진
+![KakaoTalk_20220607_005842532_08](https://user-images.githubusercontent.com/103085094/172202782-bd4b2737-ae65-4341-990c-6dcf3c0ec193.jpg)
+
