@@ -3,6 +3,8 @@
 <table>
   <tr>
     
+    
+    
 <td align="center"><a href="https://github.com/cchrbxo"><img src="https://user-images.githubusercontent.com/103193673/166229655-8f296fae-d70e-4504-9c72-a2ee5ad2fa9d.png"
  width="100px;" alt=""/><br /><sub><b>조규태</b></sub></a><br /><a href="https://github.com/cchrbxo" title="Code">🏠</a></td>
     
@@ -18,21 +20,13 @@ width="100px;" alt=""/><br /><sub><b>박준홍</b></sub></a><br /><a href="https
     
  <td align="center"><a href="https://github.com/ryusongji"><img src="https://user-images.githubusercontent.com/103193673/166229163-9831c6b9-853f-4ea0-bedc-419be661cadd.png"
 width="100px;" alt=""/><br /><sub><b>류송지</b></sub></a><br /><a href="https://github.com/ryusongji" title="Code">🏠</a></td>
+    
 
-    
-    
-    
-    <img width="1128" alt="KakaoTalk_20220606_165559355" src="https://user-images.githubusercontent.com/103085094/172121682-45dd7d7a-3ba7-4a9a-8edb-1c1b5e4ece93.png">
-
-    
-    
-    <img width="875" alt="KakaoTalk_20220606_165559528" src="https://user-images.githubusercontent.com/103085094/172121730-d98ac2aa-6342-4983-a1d8-74e00b60fa1e.png">
-
-    
-    
-    
-    
 </tr>
-    
+
+  
  
 </table>
+
+# 프로필
+<img width="1128" alt="KakaoTalk_20220606_165559355" src="https://user-images.githubusercontent.com/103085094/172122768-45fcad7f-0583-4940-b940-79da9e2a9451.png">
